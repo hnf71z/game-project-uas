@@ -25,7 +25,7 @@ private bool isGrounded;
 
         // Cek apakah menyentuh tanah
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-
+        anim.SetBool("Grounded", !isGrounded);
         // Reset jumlah lompatan saat menyentuh tanah
         if (isGrounded)
         {
