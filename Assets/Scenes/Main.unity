@@ -122,6 +122,265 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &54423975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 54423976}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &54423976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54423975}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.14, y: -3.38, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1682483589}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &67391805 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1571267095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &67391809 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1571267095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &144200217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 144200218}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &144200218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 144200217}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.03, y: -3.56, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1661860890}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &172141601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 172141602}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &172141602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 172141601}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.66, y: -3.55, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1968713594}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &216238263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 216238264}
+  m_Layer: 0
+  m_Name: NPC BABI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &216238264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216238263}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.9744678, y: 0.5971166, z: -0.87414926}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1698992114}
+  - {fileID: 1682483589}
+  - {fileID: 1503475399}
+  - {fileID: 681689206}
+  - {fileID: 838384410}
+  - {fileID: 253979371}
+  - {fileID: 1968713594}
+  - {fileID: 689623016}
+  - {fileID: 1661860890}
+  - {fileID: 1636937885}
+  - {fileID: 775390036}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &253979370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 253979371}
+  - component: {fileID: 253979372}
+  m_Layer: 0
+  m_Name: Babi1Patroli (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &253979371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 253979370}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 39.21, y: -8.83, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 993310995}
+  - {fileID: 612907527}
+  - {fileID: 1754735697}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &253979372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 253979370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 993310995}
+  BatasKanan: {fileID: 612907527}
+  enemy: {fileID: 1754735697}
+  speed: 2
+  anim: {fileID: 1754735701}
+--- !u!1 &257475394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 257475395}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &257475395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 257475394}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.84, y: -3.46, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1503475399}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &258234050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 258234051}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &258234051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258234050}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.35, y: -3.51, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 689623016}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &259121858
 GameObject:
   m_ObjectHideFlags: 0
@@ -225,6 +484,47 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &259303483
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 259303484}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &259303484
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259303483}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.55, y: -3.58, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1661860890}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &271537313 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1789926837}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &271537317 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1789926837}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &298682743
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,6 +597,75 @@ MonoBehaviour:
         m_Calls: []
   m_LegacyBlendHint: 0
   m_ComponentOwner: {fileID: 1832649694}
+--- !u!1001 &354317673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 253979371}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -469,6 +838,106 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1001 &540283112
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 775390036}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!1 &612907526
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 612907527}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &612907527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612907526}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.38, y: -3.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 253979371}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,7 +1020,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &642705219
+--- !u!1 &622387562
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -559,177 +1028,184 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 642705221}
-  - component: {fileID: 642705220}
-  - component: {fileID: 642705222}
-  - component: {fileID: 642705223}
-  - component: {fileID: 642705225}
-  - component: {fileID: 642705224}
-  m_Layer: 7
-  m_Name: Babi1
+  - component: {fileID: 622387563}
+  m_Layer: 0
+  m_Name: BatasKiri
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!212 &642705220
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 624781108, guid: dded65e9610b7554ba04496a26fdf97c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.31034482, y: 0.29310346}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &642705221
+--- !u!4 &622387563
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
+  m_GameObject: {fileID: 622387562}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.54, y: -2.676, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 12}
+  m_LocalPosition: {x: 0.36, y: -3.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 838384410}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &642705222
-Animator:
-  serializedVersion: 5
+--- !u!1 &628822629
+GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 296dc9c88290f8c40a4ebaba25341430, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!61 &642705223
-BoxCollider2D:
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 628822630}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &628822630
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.010225654, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.31034482, y: 0.29310346}
-    newSize: {x: 0.31034482, y: 0.29310346}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_GameObject: {fileID: 628822629}
   serializedVersion: 2
-  m_Size: {x: 0.25308108, y: 0.29310346}
-  m_EdgeRadius: 0
---- !u!114 &642705224
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.97, y: -3.55, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 689623016}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &642705221 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1328620918912150146}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &642705222 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1328620918912150146}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &651719968 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1393676153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &651719972 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1393676153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &681689205
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 681689206}
+  - component: {fileID: 681689207}
+  m_Layer: 0
+  m_Name: Babi1Patroli (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &681689206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681689205}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 26.49, y: -1.74, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1551206546}
+  - {fileID: 1040465291}
+  - {fileID: 1418565479}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &681689207
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
+  m_GameObject: {fileID: 681689205}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6df4703bb3cbdf844a75d045a1a50c1b, type: 3}
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &642705225
+  BatasKiri: {fileID: 1551206546}
+  BatasKanan: {fileID: 1040465291}
+  enemy: {fileID: 1418565479}
+  speed: 2
+  anim: {fileID: 1418565483}
+--- !u!1 &689623015
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 689623016}
+  - component: {fileID: 689623017}
+  m_Layer: 0
+  m_Name: Babi1Patroli (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &689623016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689623015}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 33.25, y: -8.83, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 628822630}
+  - {fileID: 258234051}
+  - {fileID: 1168563446}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &689623017
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 642705219}
+  m_GameObject: {fileID: 689623015}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 11ec6ecd9d32f1a458a101b660c969b6, type: 3}
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartingHealth: 2
+  BatasKiri: {fileID: 628822630}
+  BatasKanan: {fileID: 258234051}
+  enemy: {fileID: 1168563446}
+  speed: 2
+  anim: {fileID: 1168563450}
 --- !u!1 &693016080
 GameObject:
   m_ObjectHideFlags: 0
@@ -761,6 +1237,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1187501385}
   m_LocalEulerAnglesHint: {x: -27.133, y: 50.513, z: 2.858}
+--- !u!1 &700568892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 700568893}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &700568893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 700568892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.32, y: -3.32, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1682483589}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &709568808
 GameObject:
   m_ObjectHideFlags: 0
@@ -885,6 +1392,151 @@ Transform:
   - {fileID: 1209811483}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &775390035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 775390036}
+  - component: {fileID: 775390037}
+  m_Layer: 0
+  m_Name: Babi1Patroli (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &775390036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775390035}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 61.19, y: 8.2, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1048642053}
+  - {fileID: 1421275283}
+  - {fileID: 935851023}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &775390037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775390035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 1048642053}
+  BatasKanan: {fileID: 1421275283}
+  enemy: {fileID: 935851023}
+  speed: 2
+  anim: {fileID: 935851027}
+--- !u!1 &838384409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 838384410}
+  - component: {fileID: 838384411}
+  m_Layer: 0
+  m_Name: Babi1Patroli (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &838384410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838384409}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 36.95, y: -5.83, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 622387563}
+  - {fileID: 1006248751}
+  - {fileID: 1590127355}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &838384411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838384409}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 622387563}
+  BatasKanan: {fileID: 1006248751}
+  enemy: {fileID: 1590127355}
+  speed: 2
+  anim: {fileID: 1590127359}
+--- !u!1 &849951770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 849951771}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &849951771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 849951770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.68, y: -3.4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1698992114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &935851023 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 540283112}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &935851027 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 540283112}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &971525495
 GameObject:
   m_ObjectHideFlags: 0
@@ -10357,6 +11009,68 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &993310994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 993310995}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &993310995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993310994}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.32, y: -3.47, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 253979371}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1006248750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1006248751}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1006248751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006248750}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.81, y: -3.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 838384410}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1009285617
 GameObject:
   m_ObjectHideFlags: 0
@@ -13976,6 +14690,68 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1040465290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1040465291}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1040465291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040465290}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.26, y: -3.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 681689206}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1048642052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1048642053}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1048642053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048642052}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.91, y: -3.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 775390036}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1063604792
 GameObject:
   m_ObjectHideFlags: 0
@@ -14144,6 +14920,78 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1070502473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1070502474}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1070502474
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070502473}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.57, y: -3.46, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1698992114}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1166615350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1166615351}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1166615351
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1166615350}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.06, y: -3.59, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1636937885}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1168563446 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1209723817}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1168563450 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1209723817}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1187501380
 GameObject:
   m_ObjectHideFlags: 0
@@ -14190,7 +15038,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  maxJumps: 1
+  maxJumps: 2
 --- !u!50 &1187501382
 Rigidbody2D:
   serializedVersion: 4
@@ -14367,7 +15215,76 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11ec6ecd9d32f1a458a101b660c969b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartingHealth: 4
+  StartingHealth: 3
+--- !u!1001 &1209723817
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 689623016}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
 --- !u!1 &1209811482
 GameObject:
   m_ObjectHideFlags: 0
@@ -54252,6 +55169,75 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &1210650898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1968713594}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.491
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
 --- !u!1 &1243390534
 GameObject:
   m_ObjectHideFlags: 0
@@ -54381,6 +55367,178 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1249586745}
   m_CullTransparentMesh: 1
+--- !u!1001 &1393676153
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1636937885}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!4 &1418565479 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1779507300}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1418565483 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1779507300}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1421275282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1421275283}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1421275283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421275282}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 13.59, y: -3.57, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 775390036}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1435108022 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1721338269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1435108027 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1721338269}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1503475398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1503475399}
+  - component: {fileID: 1503475400}
+  m_Layer: 0
+  m_Name: Babi1Patroli (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1503475399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503475398}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 13.73, y: 0.18, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2132407097}
+  - {fileID: 257475395}
+  - {fileID: 271537313}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1503475400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503475398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 2132407097}
+  BatasKanan: {fileID: 257475395}
+  enemy: {fileID: 271537313}
+  speed: 2
+  anim: {fileID: 271537317}
 --- !u!1 &1507990720
 GameObject:
   m_ObjectHideFlags: 0
@@ -55774,6 +56932,551 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!4 &1521020742 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1210650898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1521020746 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1210650898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1551206545
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1551206546}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1551206546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551206545}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.04, y: -3.52, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 681689206}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1571267095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1661860890}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!4 &1590127355 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1967774407}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1590127359 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 1967774407}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1636937884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1636937885}
+  - component: {fileID: 1636937886}
+  m_Layer: 0
+  m_Name: Babi1Patroli (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1636937885
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636937884}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 58.73, y: -6.78, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1940822178}
+  - {fileID: 1166615351}
+  - {fileID: 651719968}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1636937886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636937884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 1940822178}
+  BatasKanan: {fileID: 1166615351}
+  enemy: {fileID: 651719968}
+  speed: 2
+  anim: {fileID: 651719972}
+--- !u!1 &1661860889
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1661860890}
+  - component: {fileID: 1661860891}
+  m_Layer: 0
+  m_Name: Babi1Patroli (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1661860890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661860889}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 49.67, y: -3, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 259303484}
+  - {fileID: 144200218}
+  - {fileID: 67391805}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1661860891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661860889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 259303484}
+  BatasKanan: {fileID: 144200218}
+  enemy: {fileID: 67391805}
+  speed: 2
+  anim: {fileID: 67391809}
+--- !u!1 &1682483587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1682483589}
+  - component: {fileID: 1682483588}
+  m_Layer: 0
+  m_Name: Babi1Patroli (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1682483588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682483587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 700568893}
+  BatasKanan: {fileID: 54423976}
+  enemy: {fileID: 1435108027}
+  speed: 2
+  anim: {fileID: 1435108022}
+--- !u!4 &1682483589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682483587}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.3444676, y: 3.0928836, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 700568893}
+  - {fileID: 54423976}
+  - {fileID: 1435108027}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1698992112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1698992114}
+  - component: {fileID: 1698992113}
+  m_Layer: 0
+  m_Name: Babi1Patroli
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1698992113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698992112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 1070502474}
+  BatasKanan: {fileID: 849951771}
+  enemy: {fileID: 642705221}
+  speed: 2
+  anim: {fileID: 642705222}
+--- !u!4 &1698992114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698992112}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.0779934, y: 0.10117483, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1070502474}
+  - {fileID: 849951771}
+  - {fileID: 642705221}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1721338269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1682483589}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6435254
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3742914
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!4 &1754735697 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 354317673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1754735701 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 68140228563346104, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+  m_PrefabInstance: {fileID: 354317673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1779507300
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 681689206}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!1001 &1789926837
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1503475399}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.622
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.447
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
 --- !u!1 &1832649693
 GameObject:
   m_ObjectHideFlags: 3
@@ -55890,6 +57593,158 @@ MonoBehaviour:
   m_MaximumFOV: 60
   m_MinimumOrthoSize: 1
   m_MaximumOrthoSize: 5000
+--- !u!1 &1940822177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1940822178}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1940822178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1940822177}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.56, y: -3.58, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1636937885}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1967774407
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 838384410}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+--- !u!1 &1968713593
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1968713594}
+  - component: {fileID: 1968713595}
+  m_Layer: 0
+  m_Name: Babi1Patroli (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1968713594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968713593}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 26.94, y: -8.8, z: -0.05549562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 172141602}
+  - {fileID: 2002219157}
+  - {fileID: 1521020742}
+  m_Father: {fileID: 216238264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1968713595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968713593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b7976ffe5177145a2e8acfafee3e45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BatasKiri: {fileID: 172141602}
+  BatasKanan: {fileID: 2002219157}
+  enemy: {fileID: 1521020742}
+  speed: 2
+  anim: {fileID: 1521020746}
 --- !u!1 &1987019265
 GameObject:
   m_ObjectHideFlags: 0
@@ -55965,6 +57820,137 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1987019265}
   m_CullTransparentMesh: 1
+--- !u!1 &2002219156
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2002219157}
+  m_Layer: 0
+  m_Name: BatasKanan
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2002219157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2002219156}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.91, y: -3.53, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1968713594}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2132407096
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2132407097}
+  m_Layer: 0
+  m_Name: BatasKiri
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2132407097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2132407096}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.4, y: -3.48, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1503475399}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1328620918912150146
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1698992114}
+    m_Modifications:
+    - target: {fileID: 1148580398829475989, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_Name
+      value: Babi1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6435254
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3742914
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9296449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268576101640265190, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242319264689758102, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ac5a19ba03d469428bb5cfde2508175, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -55973,6 +57959,6 @@ SceneRoots:
   - {fileID: 1187501385}
   - {fileID: 769324572}
   - {fileID: 1009285619}
-  - {fileID: 642705221}
   - {fileID: 971525496}
   - {fileID: 259121862}
+  - {fileID: 216238264}
