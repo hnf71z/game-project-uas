@@ -69,7 +69,6 @@
     <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemiesHolder.cs" />
-    <Compile Include="Assets\Scripts\Enemy\PigBomber.cs" />
     <Compile Include="Assets\Scripts\Enemy\PigWarrior.cs" />
     <Compile Include="Assets\LoopBG.cs" />
     <Compile Include="Assets\Scripts\SceneManagement.cs" />
