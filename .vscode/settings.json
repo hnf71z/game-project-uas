@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pemrograman_game.sln"
+    "dotnet.defaultSolution": "game-project-uas.sln"
 }
